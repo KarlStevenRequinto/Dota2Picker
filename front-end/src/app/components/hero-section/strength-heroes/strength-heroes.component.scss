@@ -1,0 +1,33 @@
+p {
+  margin: 0;
+  color: white;
+  // background-color: blue;
+  // display: block;
+}
+
+.classLogo {
+  width: 25px
+}
+
+.strHeroContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-flow: wrap;
+  img {
+    width: 80px;
+    height: 65px;
+    margin: 3px;
+    transition: transform 0.3s;
+    border-radius: 2px;
+  }
+  img:hover {
+    transform:scale(1.5)
+  }
+
+}
+
+.heroImageContainer {
+  margin: 4px;
+  border: 2px black solid;
+}

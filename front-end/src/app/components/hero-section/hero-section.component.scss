@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+.mainContainer, .titleBox {
+  z-index: 99;
+  position: relative;
+  // background-color: pink;
+}
+.titleBox {
+  display: block;
+  text-align: center;
+  font-family: 'Joan', serif;
+  color: white;
+  // background-color: greenyellow;
+  margin-top: 10px;
+  h2 {
+    margin: 0;
+  }
+}
+
+.sectionContainer {
+  display: flex;
+  margin: 0 100px;
+  // background-color: rgb(62, 62, 17);
+}
+
+.leftSection {
+  // background-color: rgb(157, 212, 157);
+  width:75%;
+}
+
+.heroContainer {
+  margin: 15px 0;
+}
