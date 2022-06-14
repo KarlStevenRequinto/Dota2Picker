@@ -1,0 +1,48 @@
+.mainContainer {
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.leftContainer,
+.rightContainer {
+  display: flex;
+}
+.picks {
+  width: 80px;
+  height: 50px;
+  // display: inline-block;
+  background-image: radial-gradient(circle at bottom, rgb(92, 92, 92), black 110%);
+  box-shadow: 0px -18px 5px -16px black inset;
+}
+
+.outer {
+  padding-bottom: 1px;
+  margin: 0 3px;
+}
+.teamBox {
+  transform: skewX(10deg);
+
+
+}
+
+.lower {
+  height: 8px;
+  width: 100%;
+
+}
+.lowerTeamBox {
+  background-color: rgb(0, 255, 0);
+}
+
+.lowerEnemyBox {
+  background-color: red;
+}
+.enemyBox {
+  transform: skewX(-10deg);
+}

@@ -1,0 +1,113 @@
+.mainContainer {
+  margin: 10px 0;
+  color: white;
+  font-family: 'Joan', serif;
+  box-sizing: border-box;
+}
+.headerBox {
+  flex-wrap: wrap;
+    display: flex;
+}
+
+.header {
+  flex-basis: 33.3333%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: grey;
+  border: 1px solid black;
+  padding: 4px;
+  h3 {
+    margin: 0 ;
+    line-height: normal;
+    font-size: 1.45rem;
+  }
+}
+
+.heroSuggestionBox {
+  flex-wrap: wrap;
+  display: flex;
+  // height: 690px;
+}
+.Box {
+  // background-color: green;
+  flex-basis: 33.3333%;
+  padding: 0 2px;
+  cursor: pointer;
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  img {
+    height: 50px;
+    width:100%;
+  }
+  li {
+    border: 1px solid black;
+    position: relative;
+  }
+}
+
+.left {
+  // background-color: red;
+}
+
+.mid {
+  // background-color: yellow;
+}
+
+.heroContainer {
+  position: relative;
+  display: flex;
+
+  .first {
+      background-color: rgba(0, 255, 0, 0.5);
+    }
+  .second {
+    background-color: rgba(0, 255, 0, 0.45);
+  }
+  .third {
+    background-color: rgba(0, 255, 0, 0.40);
+  }
+  .fourth {
+    background-color: rgba(0, 255, 0, 0.35);
+  }
+  .fifth {
+    background-color: rgba(0, 255, 0, 0.3);
+  }
+  .sixth {
+    background-color: rgba(0, 255, 0, 0.25);
+  }
+  .seventh {
+    background-color: rgba(0, 255, 0, 0.2);
+  }
+  .avoid1 {
+    background-color: rgba(255, 3, 3, 0.5);
+  }
+  .avoid2 {
+    background-color: rgba(255, 0, 0, 0.45);
+  }
+  .avoid3 {
+    background-color: rgba(255, 0, 0, 0.4);
+  }
+  .avoid4 {
+    background-color: rgba(255, 0, 0, 0.35);
+  }
+  .avoid5 {
+    background-color: rgba(255, 0, 0, 0.3);
+  }
+  .avoid6 {
+    background-color: rgba(255, 0, 0, 0.25);
+  }
+  .avoid7 {
+    background-color: rgba(255, 0, 0, 0.2);
+  }
+
+}
+.backgroundBox {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+}

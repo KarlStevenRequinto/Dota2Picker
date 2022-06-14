@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+.trapezoid1 {
+	height: 120px;
+	width: 170px;
+  transform: rotate(180deg);
+  background-image: url(../../../assets/images/dota-nav-background.jpg);
+  background-size: contain;
+  clip-path: polygon(8% 0%, 92% 0%, 100% 100%, 0% 100%);
+  position: absolute;
+
+}
+
+.navBar {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  z-index: 3;
+  position: relative;
+}
+.logoBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 70px;
+  transform: rotate(180deg);
+}
+
+
+
+.mainContainer {
+  position: relative;
+  z-index: 2;
+  height: 150px;
+
+}
+
