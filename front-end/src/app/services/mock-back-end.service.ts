@@ -10,6 +10,7 @@ export class MockBackEndService {
     return [
       {
         id: 1,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Abbadon',
         winRates: [
@@ -139,6 +140,7 @@ export class MockBackEndService {
       },
       {
         id: 2,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Alchemist',
         winRates: [
@@ -268,6 +270,7 @@ export class MockBackEndService {
       },
       {
         id: 3,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Ancient Apparition',
         winRates: [
@@ -397,6 +400,7 @@ export class MockBackEndService {
       },
       {
         id: 4,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Anti-Mage',
         winRates: [
@@ -526,6 +530,7 @@ export class MockBackEndService {
       },
       {
         id: 5,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Arc Warden',
         winRates: [
@@ -655,6 +660,7 @@ export class MockBackEndService {
       },
       {
         id: 6,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Axe',
         winRates: [
@@ -784,6 +790,7 @@ export class MockBackEndService {
       },
       {
         id: 7,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Bane',
         winRates: [
@@ -913,6 +920,7 @@ export class MockBackEndService {
       },
       {
         id: 8,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Batrider',
         winRates: [
@@ -1042,6 +1050,7 @@ export class MockBackEndService {
       },
       {
         id: 9,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Beastmaster',
         winRates: [
@@ -1171,6 +1180,7 @@ export class MockBackEndService {
       },
       {
         id: 10,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Bloodseeker',
         winRates: [
@@ -1300,6 +1310,7 @@ export class MockBackEndService {
       },
       {
         id: 11,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Bounty Hunter',
         winRates: [
@@ -1429,6 +1440,7 @@ export class MockBackEndService {
       },
       {
         id: 12,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Brewmaster',
         winRates: [
@@ -1558,6 +1570,7 @@ export class MockBackEndService {
       },
       {
         id: 13,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Bristleback',
         winRates: [
@@ -1687,6 +1700,7 @@ export class MockBackEndService {
       },
       {
         id: 14,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Broodmother',
         winRates: [
@@ -1816,6 +1830,7 @@ export class MockBackEndService {
       },
       {
         id: 15,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Centaur Warrunner',
         winRates: [
@@ -1945,6 +1960,7 @@ export class MockBackEndService {
       },
       {
         id: 16,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Chaos Knight',
         winRates: [
@@ -2074,6 +2090,7 @@ export class MockBackEndService {
       },
       {
         id: 17,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Chen',
         winRates: [
@@ -2203,6 +2220,7 @@ export class MockBackEndService {
       },
       {
         id: 18,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Clinkz',
         winRates: [
@@ -2332,6 +2350,7 @@ export class MockBackEndService {
       },
       {
         id: 19,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Clockwerk',
         winRates: [
@@ -2461,6 +2480,7 @@ export class MockBackEndService {
       },
       {
         id: 20,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Crystal Maiden',
         winRates: [
@@ -2590,6 +2610,7 @@ export class MockBackEndService {
       },
       {
         id: 21,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Dark Seer',
         winRates: [
@@ -2719,6 +2740,7 @@ export class MockBackEndService {
       },
       {
         id: 22,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Dark Willow',
         winRates: [
@@ -2848,6 +2870,7 @@ export class MockBackEndService {
       },
       {
         id: 23,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Dawnbreaker',
         winRates: [
@@ -2977,6 +3000,7 @@ export class MockBackEndService {
       },
       {
         id: 24,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Dazzle',
         winRates: [
@@ -3106,6 +3130,7 @@ export class MockBackEndService {
       },
       {
         id: 25,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Death Prophet',
         winRates: [
@@ -3235,6 +3260,7 @@ export class MockBackEndService {
       },
       {
         id: 26,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Disruptor',
         winRates: [
@@ -3364,6 +3390,7 @@ export class MockBackEndService {
       },
       {
         id: 27,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Doom',
         winRates: [
@@ -3493,6 +3520,7 @@ export class MockBackEndService {
       },
       {
         id: 28,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Dragon Knight',
         winRates: [
@@ -3622,6 +3650,7 @@ export class MockBackEndService {
       },
       {
         id: 29,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Drow',
         winRates: [
@@ -3751,6 +3780,7 @@ export class MockBackEndService {
       },
       {
         id: 30,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Earth Spirit',
         winRates: [
@@ -3880,6 +3910,7 @@ export class MockBackEndService {
       },
       {
         id: 31,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Earthshaker',
         winRates: [
@@ -4009,6 +4040,7 @@ export class MockBackEndService {
       },
       {
         id: 32,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Elder Titan',
         winRates: [
@@ -4138,6 +4170,7 @@ export class MockBackEndService {
       },
       {
         id: 33,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Ember Spirit',
         winRates: [
@@ -4267,6 +4300,7 @@ export class MockBackEndService {
       },
       {
         id: 34,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Enchantress',
         winRates: [
@@ -4396,6 +4430,7 @@ export class MockBackEndService {
       },
       {
         id: 35,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Enigma',
         winRates: [
@@ -4525,6 +4560,7 @@ export class MockBackEndService {
       },
       {
         id: 36,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Faceless Void',
         winRates: [
