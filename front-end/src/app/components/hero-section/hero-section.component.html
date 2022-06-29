@@ -5,13 +5,82 @@
   <div class="sectionContainer">
     <div class="leftSection">
       <div class="heroContainer">
-        <app-strength-heroes></app-strength-heroes>
+        <p>
+          <span
+            ><img
+              class="classLogo"
+              src="../../../../assets/logos/strength.png"
+              alt="wheres the logo"
+          /></span>
+          <span>STRENGTH</span>
+        </p>
+        <div class="HeroBox">
+          <div *ngFor="let heroes of heroList">
+            <div
+              *ngIf="heroes.class === 'Strength'"
+              class="heroImageContainer"
+              (click)="selectHero(heroes)"
+            >
+              <img
+                class="heroImage"
+                src="{{ heroes.imageUrl }}"
+                alt="wheres the pic"
+              />
+            </div>
+          </div>
+        </div>
       </div>
       <div class="heroContainer">
-        <app-agility-heroes></app-agility-heroes>
+        <p>
+          <span
+            ><img
+              class="classLogo"
+              src="../../../../assets/logos/agility.png"
+              alt="wheres the logo"
+          /></span>
+          <span>AGILITY</span>
+        </p>
+        <div class="HeroBox">
+          <div *ngFor="let heroes of heroList">
+            <div
+              *ngIf="heroes.class === 'Agility'"
+              class="heroImageContainer"
+              (click)="selectHero(heroes)"
+            >
+              <img
+                class="heroImage"
+                src="{{ heroes.imageUrl }}"
+                alt="wheres the pic"
+              />
+            </div>
+          </div>
+        </div>
       </div>
       <div class="heroContainer">
-        <app-intelligence-heroes></app-intelligence-heroes>
+        <p>
+          <span
+            ><img
+              class="classLogo"
+              src="../../../../assets/logos/intelligence.png"
+              alt="wheres the logo"
+          /></span>
+          <span>INTELLIGENCE</span>
+        </p>
+        <div class="HeroBox">
+          <div *ngFor="let heroes of heroList">
+            <div
+              *ngIf="heroes.class === 'Intelligence'"
+              class="heroImageContainer"
+              (click)="selectHero(heroes)"
+            >
+              <img
+                class="heroImage"
+                src="{{ heroes.imageUrl }}"
+                alt="wheres the pic"
+              />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="rightSection">

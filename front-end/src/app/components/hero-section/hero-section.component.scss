@@ -3,14 +3,12 @@
 .mainContainer, .titleBox {
   z-index: 99;
   position: relative;
-  // background-color: pink;
 }
 .titleBox {
   display: block;
   text-align: center;
   font-family: 'Joan', serif;
   color: white;
-  // background-color: greenyellow;
   margin-top: 10px;
   h2 {
     margin: 0;
@@ -20,14 +18,48 @@
 .sectionContainer {
   display: flex;
   margin: 0 100px;
-  // background-color: rgb(62, 62, 17);
 }
 
 .leftSection {
-  // background-color: rgb(157, 212, 157);
   width:75%;
 }
 
 .heroContainer {
   margin: 15px 0;
 }
+
+p {
+  margin: 0;
+  color: white;
+}
+
+.classLogo {
+  width: 25px
+}
+
+.HeroBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-flow: wrap;
+
+  img {
+    width: 80px;
+    height: 65px;
+    margin: 3px;
+    transition: transform 0.3s;
+    border-radius: 2px;
+  }
+
+  img:hover {
+    transform: scale(1.9)
+  }
+
+}
+
+.heroImageContainer {
+  margin: 4px;
+  border: 2px black solid;
+}
+
+

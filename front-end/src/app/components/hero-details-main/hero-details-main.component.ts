@@ -1,15 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-hero-details-main',
   templateUrl: './hero-details-main.component.html',
-  styleUrls: ['./hero-details-main.component.scss']
+  styleUrls: ['./hero-details-main.component.scss'],
 })
-export class HeroDetailsMainComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
-}
+export class HeroDetailsMainComponent {}
