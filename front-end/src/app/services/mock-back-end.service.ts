@@ -13,6 +13,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Abbadon',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/abaddon.png',
         winRates: [
           { id: 2, gamesPlayed: 14931, wins: 7408 },
           { id: 3, gamesPlayed: 21371, wins: 10598 },
@@ -143,6 +145,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Alchemist',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/alchemist.png',
         winRates: [
           { id: 1, gamesPlayed: 14957, wins: 7539 },
           { id: 3, gamesPlayed: 28733, wins: 13904 },
@@ -273,6 +277,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Ancient Apparition',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/ancient_apparition.png',
         winRates: [
           { id: 1, gamesPlayed: 21388, wins: 10784 },
           { id: 2, gamesPlayed: 28734, wins: 14830 },
@@ -403,6 +409,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Anti-Mage',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/antimage.png',
         winRates: [
           { id: 1, gamesPlayed: 35685, wins: 17311 },
           { id: 2, gamesPlayed: 47238, wins: 22202 },
@@ -533,6 +541,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Arc Warden',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/arc_warden.png',
         winRates: [
           { id: 1, gamesPlayed: 13771, wins: 6945 },
           { id: 2, gamesPlayed: 16594, wins: 8887 },
@@ -663,6 +673,7 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Axe',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/axe.png',
         winRates: [
           { id: 1, gamesPlayed: 47683, wins: 24538 },
           { id: 2, gamesPlayed: 59422, wins: 32047 },
@@ -793,6 +804,8 @@ export class MockBackEndService {
         role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Bane',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/bane.png',
         winRates: [
           { id: 1, gamesPlayed: 10896, wins: 4965 },
           { id: 2, gamesPlayed: 11527, wins: 5586 },
@@ -923,6 +936,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Batrider',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/batrider.png',
         winRates: [
           { id: 1, gamesPlayed: 5994, wins: 2312 },
           { id: 2, gamesPlayed: 7962, wins: 3684 },
@@ -1053,6 +1068,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Beastmaster',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/beastmaster.png',
         winRates: [
           { id: 1, gamesPlayed: 4494, wins: 2212 },
           { id: 2, gamesPlayed: 5590, wins: 2722 },
@@ -1183,6 +1200,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Bloodseeker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/bloodseeker.png',
         winRates: [
           { id: 1, gamesPlayed: 21657, wins: 10840 },
           { id: 2, gamesPlayed: 28587, wins: 14709 },
@@ -1313,6 +1332,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Agility',
         name: 'Bounty Hunter',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/bounty_hunter.png',
         winRates: [
           { id: 1, gamesPlayed: 30194, wins: 14213 },
           { id: 2, gamesPlayed: 36799, wins: 18742 },
@@ -1443,6 +1464,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Brewmaster',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/brewmaster.png',
         winRates: [
           { id: 1, gamesPlayed: 5347, wins: 5347 },
           { id: 2, gamesPlayed: 6657, wins: 6657 },
@@ -1573,6 +1596,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Bristleback',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/bristleback.png',
         winRates: [
           { id: 1, gamesPlayed: 30902, wins: 15142 },
           { id: 2, gamesPlayed: 40196, wins: 20332 },
@@ -1703,6 +1728,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Broodmother',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/broodmother.png',
         winRates: [
           { id: 1, gamesPlayed: 2504, wins: 1143 },
           { id: 2, gamesPlayed: 3271, wins: 1446 },
@@ -1833,6 +1860,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Centaur Warrunner',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/centaur.png',
         winRates: [
           { id: 1, gamesPlayed: 14605, wins: 7347 },
           { id: 2, gamesPlayed: 19824, wins: 9825 },
@@ -1963,6 +1992,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Chaos Knight',
+        imageUrl:
+          '../../../src/assets/images/heroimages/STRENGTH/chaos_knight.png',
         winRates: [
           { id: 1, gamesPlayed: 33442, wins: 16832 },
           { id: 2, gamesPlayed: 45226, wins: 23468 },
@@ -2093,6 +2124,8 @@ export class MockBackEndService {
         role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Chen',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/chen.png',
         winRates: [
           { id: 1, gamesPlayed: 2684, wins: 1389 },
           { id: 2, gamesPlayed: 3767, wins: 1960 },
@@ -2223,6 +2256,7 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Clinkz',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/clinkz.png',
         winRates: [
           { id: 1, gamesPlayed: 13850, wins: 6696 },
           { id: 2, gamesPlayed: 16610, wins: 8495 },
@@ -2353,6 +2387,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Clockwerk',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/clockwerk.png',
         winRates: [
           { id: 1, gamesPlayed: 13398, wins: 6359 },
           { id: 2, gamesPlayed: 18320, wins: 8794 },
@@ -2483,6 +2519,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Crystal Maiden',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/crystal_maiden.png',
         winRates: [
           { id: 1, gamesPlayed: 38931, wins: 20342 },
           { id: 2, gamesPlayed: 49720, wins: 26317 },
@@ -2613,6 +2651,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Dark Seer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/dark_seer.png',
         winRates: [
           { id: 1, gamesPlayed: 5505, wins: 2819 },
           { id: 2, gamesPlayed: 7004, wins: 3556 },
@@ -2743,6 +2783,8 @@ export class MockBackEndService {
         role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Dark Willow',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/dark_willow.png',
         winRates: [
           { id: 1, gamesPlayed: 15740, wins: 7327 },
           { id: 2, gamesPlayed: 18942, wins: 9112 },
@@ -2873,6 +2915,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Dawnbreaker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/dawnbreaker.png',
         winRates: [
           { id: 1, gamesPlayed: 15687, wins: 8211 },
           { id: 2, gamesPlayed: 19911, wins: 10205 },
@@ -3003,6 +3047,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Dazzle',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/dazzle.png',
         winRates: [
           { id: 1, gamesPlayed: 27085, wins: 13808 },
           { id: 2, gamesPlayed: 32762, wins: 17276 },
@@ -3133,6 +3179,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Death Prophet',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/death_prophet.png',
         winRates: [
           { id: 1, gamesPlayed: 10080, wins: 4765 },
           { id: 2, gamesPlayed: 12743, wins: 6190 },
@@ -3263,6 +3311,8 @@ export class MockBackEndService {
         role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Disruptor',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/disruptor.png',
         winRates: [
           { id: 1, gamesPlayed: 21714, wins: 10169 },
           { id: 2, gamesPlayed: 28127, wins: 13487 },
@@ -3393,6 +3443,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Doom',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/doom_bringer.png',
         winRates: [
           { id: 1, gamesPlayed: 16251, wins: 7302 },
           { id: 2, gamesPlayed: 20619, wins: 9477 },
@@ -3523,6 +3575,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Strength',
         name: 'Dragon Knight',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/dragon_knight.png',
         winRates: [
           { id: 1, gamesPlayed: 24162, wins: 11403 },
           { id: 2, gamesPlayed: 29808, wins: 14305 },
@@ -3653,6 +3707,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Drow',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/drow_ranger.png',
         winRates: [
           { id: 1, gamesPlayed: 46062, wins: 23649 },
           { id: 2, gamesPlayed: 56408, wins: 29412 },
@@ -3783,6 +3839,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Earth Spirit',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/earth_spirit.png',
         winRates: [
           { id: 1, gamesPlayed: 11272, wins: 4978 },
           { id: 2, gamesPlayed: 14598, wins: 6698 },
@@ -3913,6 +3971,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Earthshaker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/earthshaker.png',
         winRates: [
           { id: 1, gamesPlayed: 30774, wins: 15280 },
           { id: 2, gamesPlayed: 43109, wins: 20783 },
@@ -4043,6 +4103,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Strength',
         name: 'Elder Titan',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/elder_titan.png',
         winRates: [
           { id: 1, gamesPlayed: 3238, wins: 1635 },
           { id: 2, gamesPlayed: 4094, wins: 1892 },
@@ -4173,6 +4235,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Ember Spirit',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/ember_spirit.png',
         winRates: [
           { id: 1, gamesPlayed: 23519, wins: 10156 },
           { id: 2, gamesPlayed: 28840, wins: 12526 },
@@ -4303,6 +4367,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Enchantress',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/enchantress.png',
         winRates: [
           { id: 1, gamesPlayed: 13550, wins: 6693 },
           { id: 2, gamesPlayed: 17338, wins: 8562 },
@@ -4433,6 +4499,8 @@ export class MockBackEndService {
         role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Enigma',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/enigma.png',
         winRates: [
           { id: 1, gamesPlayed: 19128, wins: 9343 },
           { id: 2, gamesPlayed: 24861, wins: 12560 },
@@ -4563,6 +4631,8 @@ export class MockBackEndService {
         role: { support: false, core: true },
         Class: 'Agility',
         name: 'Faceless Void',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/faceless_void.png',
         winRates: [
           { id: 1, gamesPlayed: 34661, wins: 16146 },
           { id: 2, gamesPlayed: 48117, wins: 22202 },
@@ -4690,8 +4760,11 @@ export class MockBackEndService {
       },
       {
         id: 37,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Grimstroke',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/grimstroke.png',
         winRates: [
           { id: 1, gamesPlayed: 27531, wins: 13188 },
           { id: 2, gamesPlayed: 34612, wins: 16656 },
@@ -4819,8 +4892,11 @@ export class MockBackEndService {
       },
       {
         id: 38,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Gyrocopter',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/gyrocopter.png',
         winRates: [
           { id: 1, gamesPlayed: 20478, wins: 9836 },
           { id: 2, gamesPlayed: 26344, wins: 13007 },
@@ -4948,8 +5024,11 @@ export class MockBackEndService {
       },
       {
         id: 39,
+        role: { support: true, core: false },
         Class: 'Agility',
         name: 'Hoodwink',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/hoodwink.png',
         winRates: [
           { id: 1, gamesPlayed: 32866, wins: 16167 },
           { id: 2, gamesPlayed: 41634, wins: 20684 },
@@ -5077,8 +5156,11 @@ export class MockBackEndService {
       },
       {
         id: 40,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Huskar',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/huskar.png',
         winRates: [
           { id: 1, gamesPlayed: 24168, wins: 12133 },
           { id: 2, gamesPlayed: 33772, wins: 18126 },
@@ -5206,8 +5288,11 @@ export class MockBackEndService {
       },
       {
         id: 41,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Invoker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/invoker.png',
         winRates: [
           { id: 1, gamesPlayed: 49111, wins: 23186 },
           { id: 2, gamesPlayed: 67485, wins: 31894 },
@@ -5335,8 +5420,10 @@ export class MockBackEndService {
       },
       {
         id: 42,
-        Class: 'Intelligence',
+        role: { support: true, core: true },
+        Class: 'Strength',
         name: 'Io',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/io.png',
         winRates: [
           { id: 1, gamesPlayed: 8474, wins: 4149 },
           { id: 2, gamesPlayed: 11001, wins: 5369 },
@@ -5464,8 +5551,11 @@ export class MockBackEndService {
       },
       {
         id: 43,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Jakiro',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/jakiro.png',
         winRates: [
           { id: 1, gamesPlayed: 43222, wins: 21797 },
           { id: 2, gamesPlayed: 53809, wins: 27438 },
@@ -5593,8 +5683,11 @@ export class MockBackEndService {
       },
       {
         id: 44,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Juggernaut',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/juggernaut.png',
         winRates: [
           { id: 1, gamesPlayed: 64672, wins: 33882 },
           { id: 2, gamesPlayed: 89357, wins: 48691 },
@@ -5722,8 +5815,11 @@ export class MockBackEndService {
       },
       {
         id: 45,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Keeper of the Light',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/keeper_of_the_light.png',
         winRates: [
           { id: 1, gamesPlayed: 23043, wins: 11080 },
           { id: 2, gamesPlayed: 30540, wins: 14901 },
@@ -5851,8 +5947,11 @@ export class MockBackEndService {
       },
       {
         id: 46,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Kunkka',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/kunkka.png',
         winRates: [
           { id: 1, gamesPlayed: 24141, wins: 11591 },
           { id: 2, gamesPlayed: 33738, wins: 15807 },
@@ -5981,7 +6080,10 @@ export class MockBackEndService {
       {
         id: 47,
         Class: 'Strength',
+        role: { support: true, core: true },
         name: 'Legion Commander',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/legion_commander.png',
         winRates: [
           { id: 1, gamesPlayed: 39267, wins: 18888 },
           { id: 2, gamesPlayed: 60870, wins: 30180 },
@@ -6109,8 +6211,11 @@ export class MockBackEndService {
       },
       {
         id: 48,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Leshrac',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/leshrac.png',
         winRates: [
           { id: 1, gamesPlayed: 8444, wins: 3888 },
           { id: 2, gamesPlayed: 10744, wins: 5171 },
@@ -6238,8 +6343,11 @@ export class MockBackEndService {
       },
       {
         id: 49,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Lich',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/lich.png',
         winRates: [
           { id: 1, gamesPlayed: 23388, wins: 11687 },
           { id: 2, gamesPlayed: 30548, wins: 15357 },
@@ -6367,8 +6475,11 @@ export class MockBackEndService {
       },
       {
         id: 50,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Lifestealer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/life_stealer.png',
         winRates: [
           { id: 1, gamesPlayed: 23293, wins: 11391 },
           { id: 2, gamesPlayed: 35590, wins: 18176 },
@@ -6496,8 +6607,11 @@ export class MockBackEndService {
       },
       {
         id: 51,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Lina',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/lina.png',
         winRates: [
           { id: 1, gamesPlayed: 32891, wins: 15509 },
           { id: 2, gamesPlayed: 43699, wins: 20473 },
@@ -6625,8 +6739,11 @@ export class MockBackEndService {
       },
       {
         id: 52,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Lion',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/lion.png',
         winRates: [
           { id: 1, gamesPlayed: 58988, wins: 26917 },
           { id: 2, gamesPlayed: 81579, wins: 37837 },
@@ -6754,8 +6871,11 @@ export class MockBackEndService {
       },
       {
         id: 53,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Lone Druid',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/lone_druid.png',
         winRates: [
           { id: 1, gamesPlayed: 8714, wins: 4676 },
           { id: 2, gamesPlayed: 11465, wins: 6077 },
@@ -6883,8 +7003,10 @@ export class MockBackEndService {
       },
       {
         id: 54,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Luna',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/luna.png',
         winRates: [
           { id: 1, gamesPlayed: 23518, wins: 11327 },
           { id: 2, gamesPlayed: 32722, wins: 16342 },
@@ -7012,8 +7134,10 @@ export class MockBackEndService {
       },
       {
         id: 55,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Lycan',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/lycan.png',
         winRates: [
           { id: 1, gamesPlayed: 3324, wins: 1731 },
           { id: 2, gamesPlayed: 4283, wins: 2046 },
@@ -7141,8 +7265,11 @@ export class MockBackEndService {
       },
       {
         id: 56,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Magnus',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/magnataur.png',
         winRates: [
           { id: 1, gamesPlayed: 19340, wins: 8920 },
           { id: 2, gamesPlayed: 26071, wins: 11899 },
@@ -7270,8 +7397,10 @@ export class MockBackEndService {
       },
       {
         id: 57,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Marci',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/marci.png',
         winRates: [
           { id: 1, gamesPlayed: 19424, wins: 9608 },
           { id: 2, gamesPlayed: 26229, wins: 12811 },
@@ -7399,8 +7528,10 @@ export class MockBackEndService {
       },
       {
         id: 58,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Mars',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/mars.png',
         winRates: [
           { id: 1, gamesPlayed: 31610, wins: 14348 },
           { id: 2, gamesPlayed: 42805, wins: 19819 },
@@ -7528,8 +7659,10 @@ export class MockBackEndService {
       },
       {
         id: 59,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Medusa',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/medusa.png',
         winRates: [
           { id: 1, gamesPlayed: 27077, wins: 13295 },
           { id: 2, gamesPlayed: 35372, wins: 16834 },
@@ -7657,8 +7790,10 @@ export class MockBackEndService {
       },
       {
         id: 60,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Meepo',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/meepo.png',
         winRates: [
           { id: 1, gamesPlayed: 6190, wins: 3411 },
           { id: 2, gamesPlayed: 8155, wins: 4275 },
@@ -7786,8 +7921,10 @@ export class MockBackEndService {
       },
       {
         id: 61,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Mirana',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/mirana.png',
         winRates: [
           { id: 1, gamesPlayed: 35747, wins: 17477 },
           { id: 2, gamesPlayed: 46693, wins: 23945 },
@@ -7915,8 +8052,11 @@ export class MockBackEndService {
       },
       {
         id: 62,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Monkey King',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/monkey_king.png',
         winRates: [
           { id: 1, gamesPlayed: 32124, wins: 14684 },
           { id: 2, gamesPlayed: 46181, wins: 21401 },
@@ -8044,8 +8184,11 @@ export class MockBackEndService {
       },
       {
         id: 63,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Morphling',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/morphling.png',
         winRates: [
           { id: 1, gamesPlayed: 20332, wins: 9965 },
           { id: 2, gamesPlayed: 26606, wins: 13452 },
@@ -8173,8 +8316,11 @@ export class MockBackEndService {
       },
       {
         id: 64,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Naga Siren',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/naga_siren.png',
         winRates: [
           { id: 1, gamesPlayed: 6376, wins: 3196 },
           { id: 2, gamesPlayed: 8484, wins: 4315 },
@@ -8302,8 +8448,11 @@ export class MockBackEndService {
       },
       {
         id: 65,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Natures Prophet',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/natures_prophet.png',
         winRates: [
           { id: 1, gamesPlayed: 23708, wins: 10764 },
           { id: 2, gamesPlayed: 36058, wins: 15718 },
@@ -8431,8 +8580,11 @@ export class MockBackEndService {
       },
       {
         id: 66,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Necrophos',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/necrolyte.png',
         winRates: [
           { id: 1, gamesPlayed: 42936, wins: 22186 },
           { id: 2, gamesPlayed: 59099, wins: 30909 },
@@ -8560,8 +8712,11 @@ export class MockBackEndService {
       },
       {
         id: 67,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Night Stalker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/night_stalker.png',
         winRates: [
           { id: 1, gamesPlayed: 20780, wins: 10605 },
           { id: 2, gamesPlayed: 27177, wins: 14084 },
@@ -8689,8 +8844,11 @@ export class MockBackEndService {
       },
       {
         id: 68,
+        role: { support: true, core: false },
         Class: 'Agility',
         name: 'Nyx Assassin',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/nyx_assassin.png',
         winRates: [
           { id: 1, gamesPlayed: 11221, wins: 5657 },
           { id: 2, gamesPlayed: 15329, wins: 7743 },
@@ -8818,8 +8976,11 @@ export class MockBackEndService {
       },
       {
         id: 69,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Ogre Magi',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/ogre_magi.png',
         winRates: [
           { id: 1, gamesPlayed: 55693, wins: 27674 },
           { id: 2, gamesPlayed: 71825, wins: 36962 },
@@ -8947,8 +9108,11 @@ export class MockBackEndService {
       },
       {
         id: 70,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Omniknight',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/omniknight.png',
         winRates: [
           { id: 1, gamesPlayed: 7603, wins: 3903 },
           { id: 2, gamesPlayed: 9957, wins: 5073 },
@@ -9076,8 +9240,11 @@ export class MockBackEndService {
       },
       {
         id: 71,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Oracle',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/oracle.png',
         winRates: [
           { id: 1, gamesPlayed: 8219, wins: 3826 },
           { id: 2, gamesPlayed: 10867, wins: 5069 },
@@ -9205,8 +9372,11 @@ export class MockBackEndService {
       },
       {
         id: 72,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Outworld Destroyer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/outworld_destroyer.png',
         winRates: [
           { id: 1, gamesPlayed: 23105, wins: 12041 },
           { id: 2, gamesPlayed: 30324, wins: 15723 },
@@ -9334,8 +9504,11 @@ export class MockBackEndService {
       },
       {
         id: 73,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Pangolier',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/pangolier.png',
         winRates: [
           { id: 1, gamesPlayed: 18641, wins: 8749 },
           { id: 2, gamesPlayed: 24157, wins: 11294 },
@@ -9463,8 +9636,11 @@ export class MockBackEndService {
       },
       {
         id: 74,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Phantom Assassin',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/phantom_assassin.png',
         winRates: [
           { id: 1, gamesPlayed: 54075, wins: 26021 },
           { id: 2, gamesPlayed: 73571, wins: 36131 },
@@ -9592,8 +9768,11 @@ export class MockBackEndService {
       },
       {
         id: 75,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Phantom Lancer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/phantom_lancer.png',
         winRates: [
           { id: 1, gamesPlayed: 19511, wins: 9688 },
           { id: 2, gamesPlayed: 24937, wins: 11948 },
@@ -9721,8 +9900,11 @@ export class MockBackEndService {
       },
       {
         id: 76,
+        role: { support: true, core: false },
         Class: 'Strength',
         name: 'Phoenix',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/phoenix.png',
         winRates: [
           { id: 1, gamesPlayed: 10375, wins: 4800 },
           { id: 2, gamesPlayed: 13181, wins: 6119 },
@@ -9850,8 +10032,11 @@ export class MockBackEndService {
       },
       {
         id: 77,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Primal Beast',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/primal_beast.png',
         winRates: [
           { id: 1, gamesPlayed: 10339, wins: 4590 },
           { id: 2, gamesPlayed: 13906, wins: 6344 },
@@ -9979,8 +10164,11 @@ export class MockBackEndService {
       },
       {
         id: 78,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Puck',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/puck.png',
         winRates: [
           { id: 1, gamesPlayed: 25222, wins: 11676 },
           { id: 2, gamesPlayed: 31550, wins: 14545 },
@@ -10108,8 +10296,10 @@ export class MockBackEndService {
       },
       {
         id: 79,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Pudge',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/pudge.png',
         winRates: [
           { id: 1, gamesPlayed: 84613, wins: 39566 },
           { id: 2, gamesPlayed: 110383, wins: 53757 },
@@ -10237,8 +10427,11 @@ export class MockBackEndService {
       },
       {
         id: 80,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Pugna',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/pugna.png',
         winRates: [
           { id: 1, gamesPlayed: 20351, wins: 9637 },
           { id: 2, gamesPlayed: 26099, wins: 12353 },
@@ -10366,8 +10559,11 @@ export class MockBackEndService {
       },
       {
         id: 81,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Queen of Pain',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/queenofpain.png',
         winRates: [
           { id: 1, gamesPlayed: 24649, wins: 10762 },
           { id: 2, gamesPlayed: 32400, wins: 14985 },
@@ -10495,8 +10691,10 @@ export class MockBackEndService {
       },
       {
         id: 82,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Razor',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/razor.png',
         winRates: [
           { id: 1, gamesPlayed: 15920, wins: 7962 },
           { id: 2, gamesPlayed: 21632, wins: 11169 },
@@ -10624,8 +10822,10 @@ export class MockBackEndService {
       },
       {
         id: 83,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Riki',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/riki.png',
         winRates: [
           { id: 1, gamesPlayed: 15739, wins: 8185 },
           { id: 2, gamesPlayed: 22027, wins: 11292 },
@@ -10753,8 +10953,11 @@ export class MockBackEndService {
       },
       {
         id: 84,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Rubick',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/rubick.png',
         winRates: [
           { id: 1, gamesPlayed: 41559, wins: 18910 },
           { id: 2, gamesPlayed: 58982, wins: 26578 },
@@ -10882,8 +11085,11 @@ export class MockBackEndService {
       },
       {
         id: 85,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Sand King',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/sand_king.png',
         winRates: [
           { id: 1, gamesPlayed: 27218, wins: 13465 },
           { id: 2, gamesPlayed: 37227, wins: 18339 },
@@ -11011,8 +11217,11 @@ export class MockBackEndService {
       },
       {
         id: 86,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Shadow Demon',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/shadown_demon.png',
         winRates: [
           { id: 1, gamesPlayed: 6237, wins: 3017 },
           { id: 2, gamesPlayed: 8220, wins: 3922 },
@@ -11140,8 +11349,11 @@ export class MockBackEndService {
       },
       {
         id: 87,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Shadow Fiend',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/shadow_fiend.png',
         winRates: [
           { id: 1, gamesPlayed: 41229, wins: 20949 },
           { id: 2, gamesPlayed: 56258, wins: 28850 },
@@ -11269,8 +11481,11 @@ export class MockBackEndService {
       },
       {
         id: 88,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Shadow Shaman',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/shadow_shaman.png',
         winRates: [
           { id: 1, gamesPlayed: 46447, wins: 23024 },
           { id: 2, gamesPlayed: 64150, wins: 32832 },
@@ -11398,8 +11613,11 @@ export class MockBackEndService {
       },
       {
         id: 89,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Silencer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/silencer.png',
         winRates: [
           { id: 1, gamesPlayed: 48398, wins: 23483 },
           { id: 2, gamesPlayed: 59922, wins: 30639 },
@@ -11527,8 +11745,11 @@ export class MockBackEndService {
       },
       {
         id: 90,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Skywrath Mage',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/skywrath_mage.png',
         winRates: [
           { id: 1, gamesPlayed: 44567, wins: 22231 },
           { id: 2, gamesPlayed: 58069, wins: 30237 },
@@ -11656,8 +11877,11 @@ export class MockBackEndService {
       },
       {
         id: 91,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Slardar',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/slardar.png',
         winRates: [
           { id: 1, gamesPlayed: 20011, wins: 9602 },
           { id: 2, gamesPlayed: 28310, wins: 14204 },
@@ -11785,8 +12009,10 @@ export class MockBackEndService {
       },
       {
         id: 92,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Slark',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/slark.png',
         winRates: [
           { id: 1, gamesPlayed: 36752, wins: 18200 },
           { id: 2, gamesPlayed: 55480, wins: 27630 },
@@ -11914,8 +12140,11 @@ export class MockBackEndService {
       },
       {
         id: 93,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Snapfire',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/snapfire.png',
         winRates: [
           { id: 1, gamesPlayed: 22916, wins: 10400 },
           { id: 2, gamesPlayed: 33522, wins: 15095 },
@@ -12043,8 +12272,10 @@ export class MockBackEndService {
       },
       {
         id: 94,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Sniper',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/sniper.png',
         winRates: [
           { id: 1, gamesPlayed: 61965, wins: 31727 },
           { id: 2, gamesPlayed: 87590, wins: 45460 },
@@ -12172,8 +12403,11 @@ export class MockBackEndService {
       },
       {
         id: 95,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Spectre',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/spectre.png',
         winRates: [
           { id: 1, gamesPlayed: 23914, wins: 11675 },
           { id: 2, gamesPlayed: 31844, wins: 16142 },
@@ -12301,8 +12535,11 @@ export class MockBackEndService {
       },
       {
         id: 96,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Spirit Breaker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/spirit_breaker.png',
         winRates: [
           { id: 1, gamesPlayed: 27737, wins: 11675 },
           { id: 2, gamesPlayed: 39752, wins: 16142 },
@@ -12430,8 +12667,11 @@ export class MockBackEndService {
       },
       {
         id: 97,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Storm Spirit',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/storm_spirit.png',
         winRates: [
           { id: 1, gamesPlayed: 24647, wins: 10697 },
           { id: 2, gamesPlayed: 34354, wins: 15326 },
@@ -12559,8 +12799,10 @@ export class MockBackEndService {
       },
       {
         id: 98,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Sven',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/sven.png',
         winRates: [
           { id: 1, gamesPlayed: 14127, wins: 6622 },
           { id: 2, gamesPlayed: 21920, wins: 10213 },
@@ -12688,8 +12930,11 @@ export class MockBackEndService {
       },
       {
         id: 99,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Techies',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/techies.png',
         winRates: [
           { id: 1, gamesPlayed: 25020, wins: 12050 },
           { id: 2, gamesPlayed: 33469, wins: 16106 },
@@ -12817,8 +13062,11 @@ export class MockBackEndService {
       },
       {
         id: 100,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Templar Assassin',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/templar_assassin.png',
         winRates: [
           { id: 1, gamesPlayed: 20722, wins: 9564 },
           { id: 2, gamesPlayed: 29885, wins: 13365 },
@@ -12946,8 +13194,11 @@ export class MockBackEndService {
       },
       {
         id: 101,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Terrorblade',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/terrorblade.png',
         winRates: [
           { id: 1, gamesPlayed: 8146, wins: 3594 },
           { id: 2, gamesPlayed: 11251, wins: 5290 },
@@ -13075,8 +13326,11 @@ export class MockBackEndService {
       },
       {
         id: 102,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Tidehunter',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/tidehunter.png',
         winRates: [
           { id: 1, gamesPlayed: 16797, wins: 7778 },
           { id: 2, gamesPlayed: 21889, wins: 10061 },
@@ -13204,8 +13458,11 @@ export class MockBackEndService {
       },
       {
         id: 103,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Timbersaw',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/timbersaw.png',
         winRates: [
           { id: 1, gamesPlayed: 15506, wins: 7048 },
           { id: 2, gamesPlayed: 24372, wins: 11533 },
@@ -13333,8 +13590,11 @@ export class MockBackEndService {
       },
       {
         id: 104,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Tinker',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/tinker.png',
         winRates: [
           { id: 1, gamesPlayed: 14149, wins: 6656 },
           { id: 2, gamesPlayed: 20868, wins: 9867 },
@@ -13462,8 +13722,10 @@ export class MockBackEndService {
       },
       {
         id: 105,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Tiny',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/tiny.png',
         winRates: [
           { id: 1, gamesPlayed: 32721, wins: 16008 },
           { id: 2, gamesPlayed: 49689, wins: 23603 },
@@ -13591,8 +13853,11 @@ export class MockBackEndService {
       },
       {
         id: 106,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Treant Protector',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/treant.png',
         winRates: [
           { id: 1, gamesPlayed: 15826, wins: 7983 },
           { id: 2, gamesPlayed: 22355, wins: 11431 },
@@ -13720,8 +13985,11 @@ export class MockBackEndService {
       },
       {
         id: 107,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Troll Warlord',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/troll_warlord.png',
         winRates: [
           { id: 1, gamesPlayed: 13609, wins: 6942 },
           { id: 2, gamesPlayed: 21357, wins: 10739 },
@@ -13849,8 +14117,10 @@ export class MockBackEndService {
       },
       {
         id: 108,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Tusk',
+        imageUrl: '../../../../src/assets/images/heroimages/STRENGTH/tusk.png',
         winRates: [
           { id: 1, gamesPlayed: 19022, wins: 8903 },
           { id: 2, gamesPlayed: 32974, wins: 15485 },
@@ -13978,8 +14248,11 @@ export class MockBackEndService {
       },
       {
         id: 109,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Underlord',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/underlord.png',
         winRates: [
           { id: 1, gamesPlayed: 14039, wins: 7065 },
           { id: 2, gamesPlayed: 18154, wins: 8983 },
@@ -14107,8 +14380,11 @@ export class MockBackEndService {
       },
       {
         id: 110,
+        role: { support: true, core: true },
         Class: 'Strength',
         name: 'Undying',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/undying.png',
         winRates: [
           { id: 1, gamesPlayed: 28240, wins: 14846 },
           { id: 2, gamesPlayed: 38738, wins: 19559 },
@@ -14236,8 +14512,10 @@ export class MockBackEndService {
       },
       {
         id: 111,
+        role: { support: false, core: true },
         Class: 'Agility',
         name: 'Ursa',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/ursa.png',
         winRates: [
           { id: 1, gamesPlayed: 26809, wins: 13180 },
           { id: 2, gamesPlayed: 48522, wins: 24834 },
@@ -14365,8 +14643,11 @@ export class MockBackEndService {
       },
       {
         id: 112,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Vengeful Spirit',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/vengefulspirit.png',
         winRates: [
           { id: 1, gamesPlayed: 18833, wins: 9434 },
           { id: 2, gamesPlayed: 24826, wins: 12878 },
@@ -14494,8 +14775,11 @@ export class MockBackEndService {
       },
       {
         id: 113,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Venomancer',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/AGILITY/venomancer.png',
         winRates: [
           { id: 1, gamesPlayed: 30920, wins: 15392 },
           { id: 2, gamesPlayed: 35373, wins: 18405 },
@@ -14623,8 +14907,10 @@ export class MockBackEndService {
       },
       {
         id: 114,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Viper',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/viper.png',
         winRates: [
           { id: 1, gamesPlayed: 32255, wins: 15567 },
           { id: 2, gamesPlayed: 44234, wins: 21724 },
@@ -14752,8 +15038,11 @@ export class MockBackEndService {
       },
       {
         id: 115,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Visage',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/visage.png',
         winRates: [
           { id: 1, gamesPlayed: 8326, wins: 4491 },
           { id: 2, gamesPlayed: 11193, wins: 5777 },
@@ -14881,8 +15170,11 @@ export class MockBackEndService {
       },
       {
         id: 116,
+        role: { support: false, core: true },
         Class: 'Intelligence',
         name: 'Void Spirit',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/void_spirit.png',
         winRates: [
           { id: 1, gamesPlayed: 28102, wins: 13312 },
           { id: 2, gamesPlayed: 38373, wins: 18358 },
@@ -15010,8 +15302,11 @@ export class MockBackEndService {
       },
       {
         id: 117,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Warlock',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/warlock.png',
         winRates: [
           { id: 1, gamesPlayed: 13536, wins: 6901 },
           { id: 2, gamesPlayed: 18034, wins: 9223 },
@@ -15139,8 +15434,10 @@ export class MockBackEndService {
       },
       {
         id: 118,
+        role: { support: true, core: true },
         Class: 'Agility',
         name: 'Weaver',
+        imageUrl: '../../../../src/assets/images/heroimages/AGILITY/weaver.png',
         winRates: [
           { id: 1, gamesPlayed: 24192, wins: 11792 },
           { id: 2, gamesPlayed: 35828, wins: 17474 },
@@ -15268,8 +15565,11 @@ export class MockBackEndService {
       },
       {
         id: 119,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Windranger',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/windrunner.png',
         winRates: [
           { id: 1, gamesPlayed: 45340, wins: 21904 },
           { id: 2, gamesPlayed: 65025, wins: 32064 },
@@ -15397,8 +15697,11 @@ export class MockBackEndService {
       },
       {
         id: 120,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Winter Wyvern',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/winter_wyvern.png',
         winRates: [
           { id: 1, gamesPlayed: 17677, wins: 8749 },
           { id: 2, gamesPlayed: 24097, wins: 12326 },
@@ -15526,8 +15829,11 @@ export class MockBackEndService {
       },
       {
         id: 121,
+        role: { support: true, core: false },
         Class: 'Intelligence',
         name: 'Witch Doctor',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/witch_doctor.png',
         winRates: [
           { id: 1, gamesPlayed: 45363, wins: 22110 },
           { id: 2, gamesPlayed: 60551, wins: 30179 },
@@ -15655,8 +15961,11 @@ export class MockBackEndService {
       },
       {
         id: 122,
+        role: { support: false, core: true },
         Class: 'Strength',
         name: 'Wraith King',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/STRENGTH/wraith_king.png',
         winRates: [
           { id: 1, gamesPlayed: 37281, wins: 18634 },
           { id: 2, gamesPlayed: 54023, wins: 26007 },
@@ -15784,8 +16093,11 @@ export class MockBackEndService {
       },
       {
         id: 123,
+        role: { support: true, core: true },
         Class: 'Intelligence',
         name: 'Zeus',
+        imageUrl:
+          '../../../../src/assets/images/heroimages/INTELLIGENCE/zeus.png',
         winRates: [
           { id: 1, gamesPlayed: 39615, wins: 19741 },
           { id: 2, gamesPlayed: 54376, wins: 27520 },
