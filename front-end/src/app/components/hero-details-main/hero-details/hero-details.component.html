@@ -14,5 +14,10 @@
     <button class="enemy Box">ENEMY</button>
   </div>
 
-  <img class="bg-HeroImage" src="" alt="where is the hero pic" />
+  <img
+    *ngIf="selectedHero !== null"
+    class="bg-HeroImage"
+    src="{{ selectedHero.imageUrl }}"
+    alt="where is the hero pic"
+  />
 </div>
