@@ -6,7 +6,7 @@ import { Observable, Subject } from 'rxjs';
 })
 export class BusinessLogicService {
   private theHero = new Subject<any[]>();
-  heroObj: any = [];
+  // heroObj: any = [];
 
   constructor() {}
 

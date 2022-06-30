@@ -4,14 +4,16 @@
       <img src="../../../../assets/logos/strength.png" alt="" />
     </div>
     <div class="heroNameBox">
-      <h2>Huskar</h2>
+      <h2 *ngIf="selectedHero !== null">
+        {{ selectedHero.name }}
+      </h2>
     </div>
   </div>
 
   <div class="pickBox">
-    <button class="team Box">TEAM</button>
-    <button class="ban Box">BAN</button>
-    <button class="enemy Box">ENEMY</button>
+    <button class="team Box" (click)="teamPick()">TEAM</button>
+    <button class="ban Box" (click)="banPick()">BAN</button>
+    <button class="enemy Box" (click)="enemyPick()">ENEMY</button>
   </div>
 
   <img

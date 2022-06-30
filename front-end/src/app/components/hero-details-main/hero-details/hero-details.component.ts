@@ -14,8 +14,16 @@ export class HeroDetailsComponent implements OnInit {
   ngOnInit() {
     this.busiLogic.getHero().subscribe((heroObj) => {
       this.selectedHero = heroObj;
-      // console.log('tama to pota');
-      // console.log(heroObj);
+      console.log(heroObj);
     });
   }
+
+  //SEND TO TEAM PICKS HERO-PICKS COMPONENT
+  teamPick() {}
+
+  //SEND TO BAN PICKS HERO-BANS COMPONENT
+  banPick() {}
+
+  //SEND TO ENEMY PICKS HERO-PICKS COMPONENT
+  enemyPick() {}
 }

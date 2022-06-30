@@ -9,8 +9,6 @@ import { MockBackEndService } from 'src/app/services/mock-back-end.service';
 })
 export class HeroSectionComponent implements OnInit {
   heroList: any = null;
-  displayHero: any = [];
-  selectedHeroObj: any = [];
 
   constructor(
     private mockApi: MockBackEndService,
@@ -22,12 +20,6 @@ export class HeroSectionComponent implements OnInit {
   }
 
   selectHero(hero: any) {
-    this.selectedHeroObj = [];
-
-    // this.selectedHeroObj.push(hero);
-    // console.log(this.selectedHeroObj);
-    // this.busiLogic.heroObj = this.selectedHeroObj;
-    console.log(this.busiLogic.heroObj);
     this.busiLogic.setHero(hero);
   }
 }
